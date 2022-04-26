@@ -74,7 +74,7 @@
     border: 5px solid #C4A48B;
     box-sizing: border-box;
 
-   
+
 }
 
 .circle2 {
@@ -219,7 +219,7 @@
 
 }
 
-.add_circle4{
+.add_circle4 {
     position: absolute;
     width: 26px;
     height: 24px;
@@ -228,6 +228,3 @@
 
     background: #FFFFFF;
 }
-
-
-
