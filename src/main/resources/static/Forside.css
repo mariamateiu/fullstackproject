@@ -1,15 +1,39 @@
-.buttonL{
-
+.buttonI-O{
+    font-family: 'Inter SemiBold', sans-serif;font-size: 20px;
+    background-color: #DDC1A7;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 15px;
 }
-
-.buttonO{
-
-}
+.buttonI:hover {opacity: 0.8;}
 
 .titleForside{
-
+    display: inline-block;
+    font-family: 'Inter SemiBold', sans-serif;font-size: 27px;
+    float: left;
+    border: 1px black;
 }
 
 .subheadingForside{
-
+    font-family: 'Inter SemiBold', sans-serif;font-size: 20px;
 }
+
+.buttonL{
+    font-family: 'Inter SemiBold', sans-serif;font-size: 20px;
+    background-color: #DDC1A7;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+}
+.buttonL{border-radius: 15px;}
+.buttonL:hover {opacity: 0.8;}
+
+
+
