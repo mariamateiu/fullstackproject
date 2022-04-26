@@ -1,31 +1,19 @@
 *{
     margin: 0;
+
     padding: 0;
 
 }
 
+.Kategori-text{
+
+
+}
+
+
 .wrapper{
     width: 1170px;
     margin: auto;
-}
-header{
-    background: beige;
-    height: 100vh;
-    -webkit-background-size: cover;
-    background-position: center center;
-    position: relative;}
-.Forside-linje{
-    color: crimson;
-    size: 8px;
-    width: 60%;
-}
-
-.box{
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid green;
-    padding: 500px;
-    margin: 20px;
 }
 .nav-area{
     float: right;
@@ -45,3 +33,22 @@ header{
 .nav-area li a:hover{
     background: #fff;
     color: #333; }
+header{
+    background: beige;
+    height: 100vh;
+    -webkit-background-size: cover;
+    background-position: center center;
+    position: relative;}
+.Forside-linje{
+    color: crimson;
+    size: 8px;
+    width: 60%;
+}
+
+.box{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 500px;
+    margin: 20px;
+}
