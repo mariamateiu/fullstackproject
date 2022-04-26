@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
+    /*
 
     String url = "jdbc:mysql://localhost:3306/ønsker";
     String user = "root";
@@ -42,10 +43,6 @@ public class Main {
             e.printStackTrace();
         }
     }
-
-    @GetMapping
-    public String hello(){
-        return "Hello World";
-    }
+*/
 
 }
