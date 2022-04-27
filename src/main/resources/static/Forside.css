@@ -8,18 +8,34 @@
     display: inline-block;
     margin: 4px 2px;
     border-radius: 15px;
+    position: static;
 }
 .buttonI:hover {opacity: 0.8;}
 
+.baggrund{
+    position: absolute;
+    width: 1350px;
+    height: 800px;
+    left: 70px;
+    right: 70px;
+    top: 142px;
+    background: rgba(221, 193, 167, 0.22);
+    border-radius: 5px;
+}
+
 .titleForside{
-    display: inline-block;
     font-family: 'Inter SemiBold', sans-serif;font-size: 27px;
     float: left;
     border: 1px black;
+    word-break: break-all;
+    position: static;
+    display: flex;
+    flex-direction: row;
 }
 
 .subheadingForside{
     font-family: 'Inter SemiBold', sans-serif;font-size: 20px;
+    position: static;
 }
 
 .buttonL{
@@ -31,9 +47,29 @@
     text-align: center;
     display: inline-block;
     margin: 4px 2px;
+    position: static;
 }
 .buttonL{border-radius: 15px;}
 .buttonL:hover {opacity: 0.8;}
+
+.logo{
+    position: absolute;
+    display: inline-block;
+    width: 510px;
+    height: 510px;
+    left: 118px;
+    top: 236px;
+    float: left;
+}
+
+.verticalLine{
+    position: static;
+    width: 595px;
+    height: 0px;
+
+    border: 1px solid #E5E5E5;
+    transform: rotate(90deg);
+}
 
 
 
