@@ -9,18 +9,21 @@
 <body>
 
 <div class="logo">
+    <img th:src=@{"assets/logo.png"} src="assets/logo.png">
 </div>
 
-<div class="logud">
-    <div class="log-ud-tekst">log ud</div>
+<div class="logudknap">
+    <a href="https://www.w3schools.com/">log ud</a>
+
 </div>
 
 
-<container class="baggrund">
+<div class="baggrund">
     <div class ="container-top">
     <h1 class="h1">velkommen *navn*</h1>
     <hr class="line-under-h1">
-    <div class ="circle1"></div>
+    <div class ="circle1">
+    </div>
     <p class="jul">jul</p>
     <p class="tekst-over-cirkler">kan vi foreslå?</p>
     <div class="circle2"></div>
@@ -32,15 +35,22 @@
     <div class="container-bottom">
        <h1 class="h1">mangler du inspiration?</h1>
         <hr class="line-under-inspi">
-        <div class="inspi-circle1">til ham</div>
-        <div class="inspi-circle2">
+        <div class="inspi-circle1">
+            <a href="www.google.com">til ham</a>
         </div>
-        <div class="inspi-circle3"></div>
-        <div class="inspi-circle4"></div>
+        <div class="inspi-circle2">
+            <a href="www.google.com">til hende</a>
+        </div>
+        <div class="inspi-circle3">
+            <a href="www.google.com">til barnet</a>
+        </div>
+        <div class="inspi-circle4">
+            <a href="www.google.com">til parret</a>
+        </div>
     </div>
 
 
-</container>
+</div>
 
 </body>
 </html>
