@@ -1,13 +1,14 @@
 
-.logo {
+logo {
     position: absolute;
-    width: 75px;
-    height: 81px;
-    left: 107px;
-    top: 42px;
-    border: #C4A48B;
-    background-image: url(/templates/assets/logo.png)");
+    width: 5px;
+    height: 5px;
+    left: 90px;
+    bottom: 780px;
+    border-radius: 30px;
 
+
+}
 
 }
 
@@ -223,7 +224,7 @@
 
 }
 
-.inspi-circle1 {
+.til-ham-cirkel {
     position: absolute;
     width: 298px;
     height: 296px;
@@ -238,11 +239,9 @@
     font-family: 'Inter';
     font-style: normal;
     text-decoration-color: black;
-
-
 }
 
-.inspi-circle2 {
+.til-hende-cirkel {
     position: absolute;
     width: 298px;
     height: 296px;
@@ -258,7 +257,7 @@
     font-style: normal;
     text-decoration-color: black;
 }
-.inspi-circle3{
+.til-barnet-cirkel{
     position: absolute;
     width: 298px;
     height: 296px;
@@ -276,7 +275,7 @@
     text-decoration-color: black;
 }
 
-.inspi-circle4{
+.til-parret-cirkel{
     position: absolute;
     width: 298px;
     height: 296px;
@@ -291,5 +290,20 @@
     font-family: 'Inter';
     font-style: normal;
     text-decoration-color: black;
+}
+
+.tekst-box{
+    width: 50px;
+    height: 15px;
+    border-radius: 30px;
+    border-color: #C4A48B;
+    color: #C4A48B;
+}
+
+.footer{
+    width: 100%;
+    height: 50px;
+    background: white;
+    bottom: 1px;
 }
 
