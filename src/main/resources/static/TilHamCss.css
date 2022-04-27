@@ -3,9 +3,10 @@
     position: absolute;
     width: 5px;
     height: 5px;
-    right: 1350px;
-    top: 30px;
+    right: 1480px;
+    bottom: 780px;
     border-radius: 30px;
+
 
 }
 
@@ -35,7 +36,7 @@
 .baggrund {
     position: absolute;
     width: 1350px;
-    height: 800px;
+    height: 1900px;
     left: 70px;
     right: 70px;
 
@@ -46,7 +47,7 @@
 
 .line-under-h1 {
     position: center;
-    width: 793px;
+    width: 1150px;
     border: 1px solid #000000;
     opacity: 50%;
 }
@@ -68,13 +69,12 @@
     width: 298px;
     height: 296px;
     left: 260px;
-    top: 90px;
+    top: 150px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-
-   
+    background-image: url(https://www.ahlens.se/INTERSHOP/static/JOB/Ahlens-AhlensSE-Site/-/Ahlens/sv_SE/ProductList/44APYCPNGP_65012379_front.jpg);
+    background-position: center;
 }
 
 .circle2 {
@@ -82,23 +82,29 @@
     width: 298px;
     height: 296px;
     right: 260px;
-    top: 90px;
+    top: 150px;
     border-radius: 100%;
-    opacity: 0.5;
+
     border: 5px solid #C4A48B;
     box-sizing: border-box;
+    background-image: url( https://www.pieddepouleshop.be/frontend/files/products/pictures/256x256/2_0_catfish_sneakers_green_white.jpg);
+    background-position: center;
+    background-size: cover;
+
 }
 .circle3{
     position: absolute;
     width: 298px;
     height: 296px;
     left: 260px;
-    bottom: 60px;
+    top: 500px;
 
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
+    background-image: url( https://www.nnet.com.uy/productos/imgs/silla-gamer-primus-thronos-100t-altura-ajustable-azul-nnet-73631-31.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 .circle4{
@@ -106,14 +112,104 @@
     width: 298px;
     height: 296px;
     right: 260px;
+    top: 500px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url( https://icon-library.com/images/grand-theft-auto-v-icon/grand-theft-auto-v-icon-25.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.circle5{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    left: 260px;
+    bottom: 750px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url(https://media.smartbox.com/pim/1000001570370969691191.jpg?thumbor=320x0);
+    background-position: center;
+    background-size: cover;
+}
+
+.circle6{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    right: 260px;
+    bottom: 750px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url( https://guldsmykket.dk/images/kategoribilleder/halsk%C3%A6de_300x300.jpg);
+    background-position: center;
+}
+
+.circle7{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    left: 260px;
+    bottom: 400px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url( https://www.padelshoppen.com/wp-content/uploads/2021/09/nike-everyday-ns-stroemper-3-pak-hvid-p-256x256.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.circle8{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    right: 260px;
+    bottom: 400px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url( https://www.rejsefeber.dk/storage/ma/db09b88d6d3e4f1b98d1fbd2f227ae55/b9159f59d248458797c4244317fb6915/256-256-0-jpg.Jpeg/389B3503CE41DCFCBF77FAF7D486E521553CD736/Beer%20tasting.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.circle9{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    left: 260px;
     bottom: 60px;
 
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
+    background-image: url( https://royaldesign.dk/image/4/smeg-bean-to-cup-kaffemaskine-0?w=168&quality=80);
+    background-position: center;
+    background-size: cover;
 }
 
+.circle10{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    right: 260px;
+    bottom: 60px;
+
+    border-radius: 100%;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+    background-image: url(https://litb-cgis.rightinthebox.com/images/50x50/202109/bps/product/inc/ipcgrh1631616434524.jpg);
+    background-position: center;
+    background-size: cover;
+}
 
 
 
@@ -123,7 +219,7 @@
     height: 31px;
     left: 300px;
 
-    bottom: 350px;
+    top: 430px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -139,13 +235,14 @@
     width: 259px;
     height: 31px;
     right: 250px;
-    bottom: 350px;
+    top: 430px;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
+
 
     color: #000000;
 
@@ -157,7 +254,7 @@
     width: 259px;
     height: 31px;
     left: 300px;
-    bottom: 2px;
+    top: 790px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -174,7 +271,116 @@
     width: 259px;
     height: 31px;
     right: 250px;
+    top: 790px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+
+.tekst-under-cirkler5{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    left: 300px;
+    bottom: 690px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+
+.tekst-under-cirkler6{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    right: 250px;
+    bottom: 690px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+.tekst-under-cirkler7{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    left: 300px;
+    bottom: 340px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+
+.tekst-under-cirkler8{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    right: 250px;
+    bottom: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+
+.tekst-under-cirkler9{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    left: 300px;
     bottom: 2px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+    opacity: 0.65;
+}
+
+.tekst-under-cirkler10{
+    position: absolute;
+    width: 259px;
+    height: 31px;
+    right: 250px;
+    bottom: 2px;
+    text-justify: auto;
 
     font-family: 'Inter';
     font-style: normal;
@@ -192,7 +398,9 @@
     width: 26px;
     height: 24px;
     left: 510px;
-    top: 400px;
+    top: 450px;
+    border-radius: 50%;
+    background-image: url("https://www.freeiconspng.com/thumbs/plus-icon/plus-sign-icon-31.png");
 
 
     background: #FFFFFF;
@@ -202,8 +410,12 @@
     width: 26px;
     height: 24px;
     right: 285px;
-    top: 400px;
+    top: 450px;
+    border-radius: 50%;
 
+    background-image: url(https://www.freeiconspng.com/thumbs/plus-icon/plus-sign-icon-31.png);
+    background-position: center;
+    background-size: cover;
     background: #FFFFFF;
 
 }
@@ -213,8 +425,8 @@
     width: 26px;
     height: 24px;
     left: 510px;
-    bottom: 30px;
-
+    top: 810px;
+    border-radius: 50%;
     background: #FFFFFF;
 
 }
@@ -224,10 +436,78 @@
     width: 26px;
     height: 24px;
     right: 285px;
-    bottom: 30px;
+    top: 810px;
+    border-radius: 50%;
+    background: #FFFFFF;
+}
 
+.add_circle5{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    left: 510px;
+    bottom: 720px;
+    border-radius: 50%;
+    background: #FFFFFF;
+
+}
+
+.add_circle6{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    right: 285px;
+    bottom: 720px;
+    border-radius: 50%;
+    background: #FFFFFF;
+
+}
+
+.add_circle7{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    left: 510px;
+    bottom: 365px;
+    border-radius: 50%;
+    background: #FFFFFF;
+}
+.add_circle8{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    right: 285px;
+    bottom: 365px;
+    border-radius: 50%;
+    background: #FFFFFF;
+}
+.add_circle9{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    left: 510px;
+    bottom: 30px;
+    border-radius: 50%;
+    background: #FFFFFF;
+}
+.add_circle10{
+    position: absolute;
+    width: 26px;
+    height: 24px;
+    right: 285px;
+    bottom: 30px;
+    border-radius: 50%;
     background: #FFFFFF;
 }
 
 
+.container-bottom {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+position: fixed  ;
+    bottom: 0;
+
+}
 
