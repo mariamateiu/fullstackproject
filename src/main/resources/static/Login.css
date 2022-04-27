@@ -1,5 +1,10 @@
 
 .logo {
+    position: absolute;
+    width: 75px;
+    height: 81px;
+    left: 107px;
+    top: 42px;
 
 }
 
@@ -22,20 +27,36 @@
     font-family: 'Inter';
     font-style: normal;
     text-decoration-color: black;
-    opacity: 0.65;
 
 }
 
 .baggrund {
     position: absolute;
     width: 1350px;
-    height: 800px;
+    height: 1800px;
     left: 70px;
     right: 70px;
 
     top: 142px;
     background: rgba(221, 193, 167, 0.22);
     border-radius: 5px;
+}
+
+.container-top{
+    width: 1350px;
+    height: 800px;
+    top: 142px;
+}
+
+.container-bottom{
+    width: 1350px;
+    top: 400px;
+}
+.line-under-inspi {
+    position: center;
+    width: 1000px;
+    border-bottom: 1px solid #000000;
+    opacity: 50%;
 }
 
 .line-under-h1 {
@@ -135,4 +156,96 @@
     top: 355px;
     transform: rotate(90deg);
 }
+
+.jul{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 133.74px;
+    top: 325px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+    opacity: 0.5;
+    transform: rotate(-91.36deg);
+
+}
+.fødselsdag{
+    position: absolute;
+    width: 133px;
+    height: 31px;
+    left: 445px;
+    top: 300px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+    opacity: 0.5;
+    transform: rotate(-91.36deg);
+
+}
+
+.inspi-circle1 {
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    left: 260px;
+    top: 1000px;
+    border-radius: 100%;
+    opacity: 0.5;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+
+
+}
+
+.inspi-circle2 {
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    right: 260px;
+    top: 1000px;
+    border-radius: 100%;
+    opacity: 0.5;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+}
+.inspi-circle3{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    left: 260px;
+    top: 1355px;
+
+    border-radius: 100%;
+    opacity: 0.5;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+}
+
+.inspi-circle4{
+    position: absolute;
+    width: 298px;
+    height: 296px;
+    right: 260px;
+    top: 1355px;
+
+    border-radius: 100%;
+    opacity: 0.5;
+    border: 5px solid #C4A48B;
+    box-sizing: border-box;
+}
+
+
 
