@@ -5,6 +5,8 @@
     height: 81px;
     left: 107px;
     top: 42px;
+    border: #C4A48B;
+    background-image: url(/templates/assets/logo.png)");
 
 
 }
@@ -94,10 +96,15 @@
     left: 165px;
     top: 210px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://dsr.dk/sites/default/files/styles/9_12_-_responsive/public/3887/sy12-2021_skiftedag_naomi-yemane-tekeste.png?itok=NXbFfpnA);
+    align-content: center;
+    text-align: center;
+    line-height: 296px;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    text-decoration-color: black;
 }
 
 .circle2 {
@@ -107,9 +114,14 @@
     left: 526px;
     top: 210px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
+    text-align: center;
+    line-height: 296px;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    text-decoration-color: black;
 }
 
 .circle3 {
@@ -119,9 +131,14 @@
     right: 165px;
     top: 210px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
+    text-align: center;
+    line-height: 296px;
+    font-size: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    text-decoration-color: black;
 }
 
 .tekst-over-cirkler {
@@ -213,7 +230,6 @@
     left: 260px;
     top: 1000px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
     text-align: center;
@@ -233,7 +249,6 @@
     right: 260px;
     top: 1000px;
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
     text-align: center;
@@ -251,7 +266,6 @@
     top: 1355px;
 
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
     text-align: center;
@@ -268,9 +282,7 @@
     height: 296px;
     right: 260px;
     top: 1355px;
-
     border-radius: 100%;
-    opacity: 0.5;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
     text-align: center;
@@ -280,6 +292,4 @@
     font-style: normal;
     text-decoration-color: black;
 }
-
-
 
