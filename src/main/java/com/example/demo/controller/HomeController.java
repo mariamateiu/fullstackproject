@@ -2,20 +2,27 @@ package com.example.demo.controller;
 
 import com.example.demo.Model.Ønsker;
 import com.example.demo.Repository.ProductRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
-import utility.ConnectionManager;
+import com.example.demo.utility.ConnectionManager;
+import org.springframework.web.bind.annotation.*;
+
 
 @Controller
 public class HomeController {
 
-    ProductRepository pr = new ProductRepository();
+    ProductRepository productRepository;
 
-    @GetMapping("/")
+
+    public HomeController(ProductRepository productRepository) {
+        this.productRepository = productRepository;
+    }
+
+    @GetMapping("/" )
     public String vedikke(){
-        ConnectionManager.connectionToDB();
+        //ConnectionManager.();
 
         return "vedikke";
     }
@@ -50,12 +57,13 @@ public class HomeController {
         return "OpretØnskeliste";
     }
 
-    @GetMapping("/OpretØnskeliste")
-    public String opretØnske(@RequestParam("ønske") String navn){
+    @PostMapping("/OpretØnskeliste")
+    public String opretØnske(@RequestParam("wish") String navn){
         Ønsker wish = new Ønsker();
         wish.setName(navn);
 
-        pr.addWish(wish);
+        productRepository.addWish(wish);
+        System.out.println(wish);
         return "redirect:/";
     }
 

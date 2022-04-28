@@ -1,14 +1,15 @@
 package com.example.demo.Repository;
 
 import com.example.demo.Model.Ønsker;
-import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
-import utility.ConnectionManager;
+import com.example.demo.utility.ConnectionManager;
+import org.springframework.stereotype.Repository;
+import org.springframework.web.bind.annotation.RequestParam;
 
-import javax.swing.text.DefaultEditorKit;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+@Repository
 public class ProductRepository {
 
     ConnectionManager connectionManager = new ConnectionManager();
@@ -21,7 +22,7 @@ public class ProductRepository {
         try {
             //prep statement
             PreparedStatement preparedStatement = connection.prepareStatement(
-                    "INSERT INTO product(name) VALUES (?)");
+                    "INSERT INTO wishes.opret_wish(name) VALUES (?)");
             //set attributer
             preparedStatement.setString(1, wish.getName());
             //execute statement

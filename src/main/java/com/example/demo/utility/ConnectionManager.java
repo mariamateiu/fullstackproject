@@ -1,4 +1,4 @@
-package utility;
+package com.example.demo.utility;
 
 import java.sql.*;
 
