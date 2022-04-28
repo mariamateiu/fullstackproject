@@ -74,8 +74,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://www.ahlens.se/INTERSHOP/static/JOB/Ahlens-AhlensSE-Site/-/Ahlens/sv_SE/ProductList/44APYCPNGP_65012379_front.jpg);
+    background-image: url(https://www.rum21.dk/image/15/royal-copenhagen-black-fluted-mega-tallerken-19-cm-dekor-nr6-1?w=200&quality=80);
     background-position: center;
+    background-size: cover;
 }
 
 .circle2 {
@@ -88,7 +89,7 @@
 
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.pieddepouleshop.be/frontend/files/products/pictures/256x256/2_0_catfish_sneakers_green_white.jpg);
+    background-image: url( https://royaldesign.dk/image/4/gense-fuga-bestik-16-dele-mat-0?w=168&quality=80);
     background-position: center;
     background-size: cover;
 
@@ -103,7 +104,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.nnet.com.uy/productos/imgs/silla-gamer-primus-thronos-100t-altura-ajustable-azul-nnet-73631-31.jpg);
+    background-image: url( https://royaldesign.dk/image/4/decotique-grand-6-pers-sofa-4?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -118,7 +119,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://icon-library.com/images/grand-theft-auto-v-icon/grand-theft-auto-v-icon-25.jpg);
+    background-image: url( https://www.sexshop.dk/media/catalog/product/cache/1/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/d/u/durex_play_50ml_2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -133,7 +134,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://media.smartbox.com/pim/1000001570370969691191.jpg?thumbor=320x0);
+    background-image: url(https://royaldesign.dk/image/4/byon-chess-backgammon-beth-spil-29x29-cm-0?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -148,8 +149,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://guldsmykket.dk/images/kategoribilleder/halsk%C3%A6de_300x300.jpg);
+    background-image: url(https://image.jimcdn.com/app/cms/image/transf/dimension=256x10000:format=jpg/path/sa434386c8bf733b8/image/ibc47e98790ab3314/version/1514222430/image.jpg);
     background-position: center;
+    background-size: cover;
 }
 
 .circle7{
@@ -162,7 +164,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.padelshoppen.com/wp-content/uploads/2021/09/nike-everyday-ns-stroemper-3-pak-hvid-p-256x256.jpg);
+    background-image: url( https://royaldesign.dk/image/4/bodum-kenya-kaffemaskine-8-kopper-krom-0?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -177,7 +179,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.rejsefeber.dk/storage/ma/db09b88d6d3e4f1b98d1fbd2f227ae55/b9159f59d248458797c4244317fb6915/256-256-0-jpg.Jpeg/389B3503CE41DCFCBF77FAF7D486E521553CD736/Beer%20tasting.jpeg);
+    background-image: url( https://royaldesign.dk/image/4/eva-solo-nordic-kitchen-frying-pan-stainless-steel-3?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -192,7 +194,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://royaldesign.dk/image/4/smeg-bean-to-cup-kaffemaskine-0?w=168&quality=80);
+    background-image: url( https://ipcdn.freshop.com/resize?url=https://images.freshop.com/7863715/f4b9b36ded8ef2a560932ade92fe8cad_large.png&width=256&type=webp&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -207,7 +209,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://litb-cgis.rightinthebox.com/images/50x50/202109/bps/product/inc/ipcgrh1631616434524.jpg);
+    background-image: url(https://royaldesign.dk/image/4/normann-copenhagen-bell-lampe-small-sort-8?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -389,6 +391,7 @@
     font-size: 20px;
     line-height: 24px;
 
+
     color: #000000;
 
     opacity: 0.65;
@@ -512,4 +515,3 @@
     margin-top: auto;
 
 }
-

@@ -74,8 +74,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://www.ahlens.se/INTERSHOP/static/JOB/Ahlens-AhlensSE-Site/-/Ahlens/sv_SE/ProductList/44APYCPNGP_65012379_front.jpg);
+    background-image: url(https://cphimageprocessor-prod.azurewebsites.net/productimages/heinemann/624489.jpg?width=256&height=256&mode=max);
     background-position: center;
+    background-size: cover;
 }
 
 .circle2 {
@@ -88,7 +89,7 @@
 
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.pieddepouleshop.be/frontend/files/products/pictures/256x256/2_0_catfish_sneakers_green_white.jpg);
+    background-image: url( https://i.pinimg.com/150x150/09/2e/f8/092ef8759c754de10f724a7997f5fa15.jpg);
     background-position: center;
     background-size: cover;
 
@@ -103,7 +104,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.nnet.com.uy/productos/imgs/silla-gamer-primus-thronos-100t-altura-ajustable-azul-nnet-73631-31.jpg);
+    background-image: url( https://media.fabfab.net/images/products/small/kjole-burda-6224-34-44--30_6224_ZB06.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -118,7 +119,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://icon-library.com/images/grand-theft-auto-v-icon/grand-theft-auto-v-icon-25.jpg);
+    background-image: url(https://img.makeupalley.com/thumb/h/350/0_0_0_1_3736606.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -133,7 +134,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://media.smartbox.com/pim/1000001570370969691191.jpg?thumbor=320x0);
+    background-image: url(https://nemmehjemmesider.dk/aspuploader/savefiles/25668/5086070000670_lip-stick-41-g-pink-seducer.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -148,8 +149,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://guldsmykket.dk/images/kategoribilleder/halsk%C3%A6de_300x300.jpg);
+    background-image: url(https://cdn.shopify.com/s/files/1/0053/0910/4241/products/977357703308699c111acaa859271905.image.256x256_1200x1200.jpg?v=1573125776);
     background-position: center;
+    background-size: cover;
 }
 
 .circle7{
@@ -162,7 +164,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.padelshoppen.com/wp-content/uploads/2021/09/nike-everyday-ns-stroemper-3-pak-hvid-p-256x256.jpg);
+    background-image: url(https://cdn.shopify.com/s/files/1/0115/9639/8649/products/Pico_smykke_packs_0619_18502_5f75b8bf-bc5c-4a5a-9a26-4a3bdf2237ee_grande.jpg?v=1622803240);
     background-position: center;
     background-size: cover;
 }
@@ -177,7 +179,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.rejsefeber.dk/storage/ma/db09b88d6d3e4f1b98d1fbd2f227ae55/b9159f59d248458797c4244317fb6915/256-256-0-jpg.Jpeg/389B3503CE41DCFCBF77FAF7D486E521553CD736/Beer%20tasting.jpeg);
+    background-image: url(https://cdn.shopify.com/s/files/1/0510/4694/0866/products/01-016_256x.jpg?v=1614325851);
     background-position: center;
     background-size: cover;
 }
@@ -192,7 +194,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://royaldesign.dk/image/4/smeg-bean-to-cup-kaffemaskine-0?w=168&quality=80);
+    background-image: url( https://kikbuild-static.myshopblocks.com/images/2019/07/contain/256x256/0380ecb9fccd1e884b908c27f9b0e0be.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -207,7 +209,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://litb-cgis.rightinthebox.com/images/50x50/202109/bps/product/inc/ipcgrh1631616434524.jpg);
+    background-image: url(https://royaldesign.dk/image/4/smeg-smeg-espressomaskine-sort-6?w=168&quality=80);
     background-position: center;
     background-size: cover;
 }
@@ -512,4 +514,3 @@
     margin-top: auto;
 
 }
-

@@ -74,8 +74,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://www.ahlens.se/INTERSHOP/static/JOB/Ahlens-AhlensSE-Site/-/Ahlens/sv_SE/ProductList/44APYCPNGP_65012379_front.jpg);
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIREhgVFhUSGBgYEhgcGBoZHBkYHBgVGhoZHRgZGBkeIC4lHh4rHxgYJzgnKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzQrJSs9NDY4MTE0NzQ0NjQ0ND02NDQ0NDQxNDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ9NEA0P//AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABQEDBAYHAv/EAD0QAAIBAgQEBAMGBAQHAQAAAAABAgMRBBIhMQVBUWEGEyJxMoGRQnKhsdHwI2LB4RQzUoIHFVNzorLSJP/EABoBAQACAwEAAAAAAAAAAAAAAAAEBQECAwb/xAApEQACAwABAwMEAgMBAAAAAAAAAQIDEQQSITETQVEiMmGRFHEFQqEj/9oADAMBAAIRAxEAPwDswAAAAAAAAAAAAAAPIDIvjvFoYOi6kn2iucpPZIw2ktZmMXKSjFa2SlzzKVlc1jwdxyvjPMc4xjGMko2vvZ3V3vyNnuE9Wo3sqdUnGXlHN+KeN6/mSVJRjFSaV1dvXd9CV8M+MlXmqVdRjKT9MlopPo09ma7424IsPU8yDWScndX1jJ7+6ZrEKjjJSTs07r3WxDdk4zxs9PXwOLyOMnBY88++/k76VMXh1bzKUJf6oRl9UjKJqe9zyrWPGegADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4aOVf8QOI+bici+GnG3+56v+h1Zs4z4mwNRYyslFv15r8rNKxw5DfT2Lf/Cxg+Rs/Zdi7wTj2Jh5WHoZYp1EnZXlJyerk3yt+R0bxPKssJUdG+dRTvHeyazZe9rmg+EaNPDV/PrtelWgo62lLRt/LT5s22Hi2M5OMKfpXOTtfvbpua1SyD6mb/5DpfITqiml3b+WcurVZTlmlKUpdZNt/iWmzcfEmGw9W9WEYQnd5rOylbr37o1Svg5r4E2rO70/AjSXcveNzapw+H8Ha+AK2Fo/9mH5IkTB4fKMaNON18CS76LYzkyxj4R4uz72/wAs9AAyaAAAAAAAAAAAAAAAAAAAAAAAAAAAAApcApI5t4udSri5QglZRScuStvfr7G08Z8RU6E40kpOUnZuNvSrXb15o1XF1oZ5OGdqcrrNq9bbkXly6K/7JfDT63/RF0uD3d51py7KKjFrpzfzMunhIU7uCk77ttvXpuT+F4PGycnKTdtE7WfNPsVq8Hpt+i8bbpc32v0Kx+r92k/1YbhrMsPGspZ1KMbqy2u0WYcJgndTnLs3t2SNip8KSfqldZtLK2bTrydzL/5bRva13bXV7fr3CVsvLHXCL7Gt4jFTpuM5yqShTjqlrKMV/pR0Xg3FaGLpRqUakZxsrtO7T5qS3T9zSOI4Ty3dP0S2vvF21i+xieDpUcHj1BOpmxKlaP2Ulr7aO6+ZN4lj1xl5IfKgmlKPg6oipQqWBBAAAAAAAAAAAAAAAAAAAAAAAAAAAPLLGKrKnCUmr5Yt2625GQYXFop0J3v8Dem+mun0MPwZS1o5zj5xxFec9Yt23X2b6/OySMjBUc9aKdpJJuS11SWy77fQwZ13GUU8zzN3vtfdNGXwZ/8A6Laawl8n1V9yp5Nkp2Lq9vBaVVqEHnuTeLmlSq1ZrOqeWEIXcYuU8qTnZ3aWZae/O1ozw/xKVXNFzU4qEJZo6Rg5aeTZu91a+rehL1KMrSjHJacfXCabjJL7ejvGS0tbt0IinhlhIuEJLNN5pTst3ppHlZLS93qS5WVKnPchKux3avBl4rFSgnyai29mlHXbT4uxAeBMZDGOUJPPUn5knJxtOlKL9DU7appXy8tiuJ4jGnLI80lHX7r699yU8PYOMFKcJ5YzVpPKnNJ2bjCd/TB+173FDVcG5rz4NrouUl0Px5MycPNo3krNwu+7VvX7Lku5AOtkq05QSc4u8XbXuvbZGw4+ooU5clGOy1y6emK7MgcFhJzlD1Sc29El8N9/32Im7amiXFf+b06bgqjlThKSScoRbS2TaRkHilG0UuyPZbLwVb8lQAZMAAAAAAAAAAAAAAAAAAAAAAAAAt1I3TXVWLhQA5H4rwlbD1r6tJpp6vMk9i35t3GcGtNU9/lY3nxtQUqCkksyla9r2T5LocxlN4eEpSs4KXwprMulis5VLf2+UWnHtTj9Rv8Aw3iKrQ6SVsy2aeyy35djF4rSndytdW3Wtuz6Gq4Di9GpezyyVvieVruu/ckquOm4WjUm1q73Teq5S3I31tZKLOqiur6WReJ4dUnVtFpxlG71tl+8jb+GRjh6aUmk0ufTm0uZp64q6drTmnvfdt977otVOMRnduTm+dlv9djtZyLJxUWvBpGiMW38mwcUx6qvLFvInvf431fZPW5sPg3hqkliJdZKC7bNnPOEYp4nERhK1OEna/PXnL9DtmFpKEIxVrRil0vZLU7calt9cjjyrOmPTEyCpQFgV5UAAAAAAAAAAAAAAAAAAAAAAAAAAFAwYePxapRvo29Irq+/Yw2ktZlLfBrPjpykowWZ5k7JN623ult7nM+J4R0sNOU4+tVYRSaTsrX09zqOMxDlmzN6/wC6Nt3ZdDTeK8chCjUhOjCa/wAWktV/0+r9zhVLrs1Eia6YJGucA8uaqSnTpyy03l0ta7S0+pI8Vx8lUcYRSSjFbvp0JPw5jcFOE28PZynCOjXOWvPseuJY3Ayqy/gy+Jr8fvE2byGI5cOO26++Jms+S2s+t3H+piywUlLNHTs+fUmq9SDd4Rag3KyfL92KQjfXun+BT2ScZNFpDJRTMGGHUnezUl07a/qdL8MY/FxUXVnCdPJpaNpLou/M0aENv3z/ALm1+Gq14OLfwv6ZkrtfO5rC6UX2NLa1Jdze8Li4VF6b+z0f0Mk1iMpQd46NdHy67a+xLYLiCm8srJvWO/qj17PsTarlPyV86nHwSQKFSQcgAAAAAAAAAAAAAAAAAAAAAAUAPE5JJtuyW5rmMxaqSzXeS1ovdNLdtdyS43VtDL/q3+6tzX5zu9OW2V69rpkPkT/1RIph/seZ89OTvlevV6Ptp8zWsfwylWw0367rFvM4pS1atrFO610JXjeOVKFks05aJNJNfzN7WNEp4+cXUgpPLUae9tU9+zuhx5KD1nadPqLNw2rgPA4Rp6TelWDfon1a6exZxXAYeZJeY75nyl+OhhcM4tWo3TkrSy/ak9mmuXYvYziNac3PO45ndJXevuyZPl1Nfo58fi2Vyb32f/THnh/KbhfPaW9n35P3KQ0tpukWsZXqfE5yblLW6T6F7EQyYWFWM/XObi1l0t6vx0RCt47sm5Rax9+5KqlKEEpJ6u3b3KxmuXX+pM+GZ2qOPNx0ftdkBhpZqeZvabvor7IlfD9PPWgoybl5itey0W5zfFlF5qNpSk4OTTS3O5ukbW6fT0vq9dSjvfnvf58pN30RMV+HKWsXZ89NH8uRgy4dV2tF69d136m3pSi+xE9SLRJ8PxDnDW907N2tfujMMfCUckFG9+rMgmxTSWkV+exUAGxgAAAAAAAAAAAAAAAAAAFCpQAjeK4WVRJx3V7rZtdmRcOE1Zcrfetz7rXQ2YM4ypjJ6zpG2UViOY+KMBOFeSUo5Mie2aW23ZXNYnhFNLRXWvbMtWbJ4yqzWIqSd1slZt6JbuxCwdm9el/wIV76XiLGjXFNlnyVCN9G2ufY9wm5v1JK2i+vMyHZrXo//ZHhUct/3zI+/J3aPccLGdJXjNtTfwuOi+69SUxXDIPh8P8AMT8x/Y13l3NT4pSrOKlBTaUndxTdna+tjNxuNrx4bR9VRN1JX0f85e09LrjvwimsnaptJvN+SQwPDoKnJfxPi1WTt7mbwrC5MTScHKN5q94ra+trmp8OxdeVOTcp/E+T6GfwrH1YVYfF6qiV2u60VzPJUVjS9jvxp2Tql1N+TuCKnmGy9j2aEUAAAAAAAAAAAAAAAAAAAAAAAAAAAFGVKMA5p48nKFSdle8U9XZJL25mpYfiFOV1az76cif8f1HKtNLRvTd223ZFQ4RWWEcnBv4bO3JxTIjo9aTRZQsjCC6nhWGJptXTTte6T2TX9iz/AMwV9ZQatqr68jM8PcNqyp4hZH/lfqYfCuGVXPWno4/y9v0Mx4KbzubS5EEt6l+jEx/FqlNxdGbim7yW6vbS8XdMmeKeJMR/gMO4+U5Z3m9Md7S5fUwsTw+VOp60suVdOrMSayLa6k9E9bPXVD11X9DXg0s4qk3KL1P8GXgvE1aNL1SpXbemVaL2JzwlUhjMRF1pR9DvBRsk59H1NThQjUbuluiT4U40akci9UakXJ9Oa9+ofLU5JZ+DCoddTjvdvdO3I9FqlJuKb5pfkXSUV4AAAAAAAAAAAAAAAAAAAAAAAAAABQoz0UAOU/8AECUZV24taKz5+rrbqYuK4rCGDadJNqML6y19G+5leOMssTJWd9LvbQYjD4CeFd5VV/BpuVlfXLl0+ZjjPJSOnJWwiRvhXjcJSrRVFa0Xzl19yL4bx+HmJeRT+F7p6fiTXhDD8O86ajOq3KjLdPZNPoRuDw3DI1IpTrSd2ra/oSoTfURpVrpPVbFutNvJCLUbabb9Pme50c1m+Sf1T/ue6kaDqONKM4+h6vnqi/Cn78/xRRcx5ay+p+xGJHCpP5v6ov0HGFaMsqeaybvbkraW13LlSG375GPGnJ1KbbVo1YfR2TONUvrRmz7Wdnwt8kb2vlW223IvHimtF7I9l0imfkqAAYAAAAAAAAAAAAAAAAAAAAAAAABRlSgBzLx3hZKrKUtItXT6rpYgsNXg6ChKFRvysjd0lpJOLRvfjjBZ4Rm8zUbpRW7k9jm+JpNO6TTy33vr0Ik7pUybXuToVRuglI9cFgsLWU3CTSi42zr7Sa6dSxDBRVTOoJrPJ/Hsnfse1N8/x90e7a22ve9vdGn823dWfo3/AINbWd/2FiLVfRBN5HqpX/oe4OpOaWSoryS56HvB0IyqxurLI9u1jPwld+bGNlbNp10ZIjGq2KnNPW3ptCu1dcYNYks19yO4rjKtKEJKDblfk+Taf5F/gOJnOMKtWLUVWjGSSeya1/EvceT8uHaU19ZNleGQbwc76Zambm9Eo3OsqKIrYruRYrk5s8z+zsMGmlbay+h7MThlTNRpy11pxeu+sUZgTI7AAMmAAAAAAAAAAAAAAAAAAAAAAAAAUKgA17xhTzYdepRSnFv9L8jm2JinLS1rvY6vx7B+fh5x52utM2q1WhzbHYKcJtNNSu9Hvfp9CDy4vNRP4klmGCsOnr2/Ro8PDpy6bkhHBz0WV3exiYjDzjya1X5MrtZOTPeCqwo1FNydrNXST35NPdaE1g69GdSLz0n618UWnv0jsa7h8JGc4wnNwTd8ztZSs7Xv+9SS4dwFurFxrUmlPm2tPxLriSSqSfyyBZH6rG/hYZviCpQVKN5UF/Enym/tGFh8VGWEyUpr11JqbjFRTjlV1d6lvxFwBunBSrUl6pvROW8nboX+C8NpU6dCnepO9So5O2XVuySjz0JN845iINEJJ6zonAFJYakpLVU4r6LT8CULNCGWKSvoktehdOS8GX5KgAyYAAAAAAAAAAAAAAAAAAAAAAAAAAAPLIri+Cg4SmlFS01avpdJ6dbEsYXFW/Klbt+aNJpOL02g2pLDXnSX1+r93ysWZUE77bWTaul2iu/UyZRvZfu/VlZLT5Nf2XfuVrXcn9TLFbwlGpCOWWX0a31d+Xyt+SI3AcE/wk5wkoSdlJNLZarN+GxveC/y4fdXfka/xCWarLl6rd9Lf+JKtiowTRwrslKTTMGVG1sqXO3/ANe3YkvD9OLm7xV0k4vffeS6X6djHstffW3XTb+UzeBaVJrZ5VdLZu+rj2OVOua02s7ReE+ioBYEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoWq9JSi4vmmvqXihhrVgNYlBxeV2unbsvfqIwctEm29PddunuT9XCwm7tanqlh4wbaSTZF/jvqO/rdiuHp5IRj0ika3jYfxJ/fevNvTT2NpMLF4CNR5tna3ujrbByjiNK5dMtZr6Vu1nb7u3p7kvwXD5VKW19Et8qW6+pbXCpXWqsvy9uvclqNNQiorZI5U1yUtkb22JrEXQASzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAMAAAyEEAAVAAAAAAAAAAAAAAAAAB//9k=);
     background-position: center;
+    background-size: cover;
 }
 
 .circle2 {
@@ -88,7 +89,7 @@
 
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.pieddepouleshop.be/frontend/files/products/pictures/256x256/2_0_catfish_sneakers_green_white.jpg);
+    background-image: url( https://www.legehimlen.dk/media/catalog/product/cache/1/thumbnail/256x/9df78eab33525d08d6e5fb8d27136e95/s/c/sch14525_1-schleich_dinosaur_tyrannosaurus_rex/schleichdinosaurtyrannosaurusrex-10.jpg);
     background-position: center;
     background-size: cover;
 
@@ -103,7 +104,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.nnet.com.uy/productos/imgs/silla-gamer-primus-thronos-100t-altura-ajustable-azul-nnet-73631-31.jpg);
+    background-image: url( https://www.legehimlen.dk/media/catalog/product/cache/1/thumbnail/256x/9df78eab33525d08d6e5fb8d27136e95/1/8/18801_2_enhhj_rning_k_mpe_bamse_fra_melissa_og_dou/enhjrningkmpebamseframelissadoug-10.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -118,7 +119,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://icon-library.com/images/grand-theft-auto-v-icon/grand-theft-auto-v-icon-25.jpg);
+    background-image: url( https://www.legehimlen.dk/media/catalog/product/cache/1/thumbnail/256x/9df78eab33525d08d6e5fb8d27136e95/1/1/11-9003-00_1-maileg_miniature_dukkehus_i_tr_/mailegminiaturedukkehusitr-10.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -133,7 +134,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://media.smartbox.com/pim/1000001570370969691191.jpg?thumbor=320x0);
+    background-image: url(https://www.legehimlen.dk/media/catalog/product/cache/1/thumbnail/256x/9df78eab33525d08d6e5fb8d27136e95/4/0/4055_lrm_1_puky_l__becykel_bl___og_turkis/pukylbecykellrmblturkis-10.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -148,8 +149,9 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://guldsmykket.dk/images/kategoribilleder/halsk%C3%A6de_300x300.jpg);
+    background-image: url(https://royaldesign.dk/image/4/authentic-models-modelbil-tr-50x27-cm-1?w=168&quality=80);
     background-position: center;
+    background-size: cover;
 }
 
 .circle7{
@@ -162,7 +164,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.padelshoppen.com/wp-content/uploads/2021/09/nike-everyday-ns-stroemper-3-pak-hvid-p-256x256.jpg);
+    background-image: url( https://cdn.dyrenesbutik.dk/media/catalog/product/cache/1/thumbnail/256x/9df78eab33525d08d6e5fb8d27136e95/k/o/kong_leget_j_elefant.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -177,7 +179,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://www.rejsefeber.dk/storage/ma/db09b88d6d3e4f1b98d1fbd2f227ae55/b9159f59d248458797c4244317fb6915/256-256-0-jpg.Jpeg/389B3503CE41DCFCBF77FAF7D486E521553CD736/Beer%20tasting.jpeg);
+    background-image: url( https://img.bricklink.com/ItemImage/SL/5213-1.png);
     background-position: center;
     background-size: cover;
 }
@@ -192,7 +194,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url( https://royaldesign.dk/image/4/smeg-bean-to-cup-kaffemaskine-0?w=168&quality=80);
+    background-image: url(https://sw3074.sfstatic.io/upload_dir/pics/Menu-Billeder/_thumbs/drengelegetoej-menubillede.w293.h293.backdrop.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -207,7 +209,7 @@
     border-radius: 100%;
     border: 5px solid #C4A48B;
     box-sizing: border-box;
-    background-image: url(https://litb-cgis.rightinthebox.com/images/50x50/202109/bps/product/inc/ipcgrh1631616434524.jpg);
+    background-image: url(https://www.pixizoo.dk/media/catalog/product/cache/small_image/256x/9df78eab33525d08d6e5fb8d27136e95/b/a/baby_born_city_deluxe_style_s_t_43cm_1_.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -219,7 +221,7 @@
     width: 259px;
     height: 31px;
     left: 300px;
-
+    text-align: center;
     top: 430px;
 
     font-family: 'Inter';
@@ -237,6 +239,7 @@
     height: 31px;
     right: 250px;
     top: 430px;
+    text-align: match-parent;
 
     font-family: 'Inter';
     font-style: normal;
@@ -256,7 +259,7 @@
     height: 31px;
     left: 300px;
     top: 790px;
-
+    text-align: center;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -273,6 +276,7 @@
     height: 31px;
     right: 250px;
     top: 790px;
+    text-align: start;
 
     font-family: 'Inter';
     font-style: normal;
@@ -351,7 +355,6 @@
     font-weight: 600;
     font-size: 20px;
     line-height: 24px;
-
     color: #000000;
 
     opacity: 0.65;
@@ -512,4 +515,3 @@
     margin-top: auto;
 
 }
-
