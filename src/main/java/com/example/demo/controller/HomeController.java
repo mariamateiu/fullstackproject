@@ -5,6 +5,7 @@ import com.example.demo.Repository.ProductRepository;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 import utility.ConnectionManager;
 
 @Controller
@@ -47,6 +48,15 @@ public class HomeController {
     @GetMapping("/OpretØnskeliste")
     public String OpretØnskeliste(){
         return "OpretØnskeliste";
+    }
+
+    @GetMapping("/OpretØnskeliste")
+    public String opretØnske(@RequestParam("ønske") String navn){
+        Ønsker wish = new Ønsker();
+        wish.setName(navn);
+
+        pr.addWish(wish);
+        return "redirect:/";
     }
 
 
