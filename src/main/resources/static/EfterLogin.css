@@ -307,3 +307,24 @@ logo {
     bottom: 1px;
 }
 
+
+.centre-knap {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.knap {
+    background-color: #DDC1A7;
+    opacity: 0;
+    border-radius: 35px;
+    color: #6B3F29;
+    height: 20px;
+    width: 20px;
+}
+
+.knap:hover{
+    opacity: 0.5;
+}
