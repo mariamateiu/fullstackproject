@@ -1,12 +1,16 @@
 package com.example.demo.controller;
 
+import com.example.demo.Model.Ønsker;
+import com.example.demo.Repository.ProductRepository;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import utility.ConnectionManager;
 
 @Controller
 public class HomeController {
+
+    ProductRepository pr = new ProductRepository();
 
     @GetMapping("/")
     public String vedikke(){
@@ -38,11 +42,20 @@ public class HomeController {
     public String Oprettelse(){
 
         return "Oprettelse";
+
     }
     @GetMapping("/OpretØnskeliste")
-    public String OpretØnskerliste(){
+    public String OpretØnskeliste(){
+        return "OpretØnskeliste";
+    }
+    @GetMapping("/OpretØnskeliste")
+    public String OpretØnskerliste(@RequestParam("ønske") String ønske){
+        Ønsker newWish = new Ønsker();
+        newWish.setName(ønske);
 
-        return "OpretØnskerliste";
+        pr.addWish(newWish);
+
+        return "OpretØnskeliste";
     }
 
     @GetMapping("/Forside")
