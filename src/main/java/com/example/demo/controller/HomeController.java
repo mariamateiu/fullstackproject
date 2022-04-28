@@ -48,15 +48,7 @@ public class HomeController {
     public String OpretØnskeliste(){
         return "OpretØnskeliste";
     }
-    @GetMapping("/OpretØnskeliste")
-    public String OpretØnskerliste(@RequestParam("ønske") String ønske){
-        Ønsker newWish = new Ønsker();
-        newWish.setName(ønske);
 
-        pr.addWish(newWish);
-
-        return "OpretØnskeliste";
-    }
 
     @GetMapping("/Forside")
     public String Forside(){

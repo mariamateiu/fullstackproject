@@ -11,7 +11,7 @@ public class ConnectionManager {
     public static Connection connectionToDB () {
 
 
-        String url = "jdbc:mysql://localhost:3306/ønsker";
+        String url = "jdbc:mysql://localhost:3306/wishes";
         String user = "root";
         String password = "N123naomi";
 

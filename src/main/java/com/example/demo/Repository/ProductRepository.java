@@ -11,16 +11,4 @@ import java.sql.SQLException;
 
 public class ProductRepository {
 
-public void addWish(Ønsker ønske) {
-    Connection connection = ConnectionManager.connectionToDB();
-    try {
-
-        PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO ønske(name) VALUES(?)");
-        preparedStatement.setString(1, ønske.getName());
-
-        preparedStatement.executeUpdate();
-    } catch (SQLException sqlException){
-        System.out.println("nej");
-    }
-}
 }
