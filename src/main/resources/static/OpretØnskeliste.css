@@ -103,5 +103,12 @@ text-align: center;
     opacity: 0.5;
 }
 
+.input-felt{
+    width: 100px;
+    height: 20px;
+    border: white;
+    left: 10px;
+    padding-left: 5px;
+}
 
 
