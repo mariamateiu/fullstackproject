@@ -230,7 +230,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    left: 300px;
+    left: 380px;
 
     top: 430px;
 
@@ -247,7 +247,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    right: 250px;
+    right: 180px;
     top: 430px;
 
     font-family: 'Inter';
@@ -266,7 +266,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    left: 300px;
+    left: 390px;
     top: 790px;
 
     font-family: 'Inter';
@@ -283,7 +283,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    right: 250px;
+    right: 190px;
     top: 790px;
 
     font-family: 'Inter';
@@ -301,7 +301,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    left: 300px;
+    left: 370px;
     bottom: 690px;
 
     font-family: 'Inter';
@@ -319,7 +319,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    right: 250px;
+    right: 170px;
     bottom: 690px;
 
     font-family: 'Inter';
@@ -336,7 +336,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    left: 300px;
+    left: 390px;
     bottom: 340px;
 
 
@@ -355,7 +355,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    right: 250px;
+    right: 190px;
     bottom: 340px;
 
     font-family: 'Inter';
@@ -373,7 +373,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    left: 300px;
+    left: 360px;
     bottom: 2px;
 
     font-family: 'Inter';
@@ -391,7 +391,7 @@
     position: absolute;
     width: 259px;
     height: 31px;
-    right: 250px;
+    right: 200px;
     bottom: 2px;
     text-justify: auto;
 
