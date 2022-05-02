@@ -5,7 +5,7 @@ import java.sql.*;
 public class ConnectionManager {
     private static Connection connection;
     private Statement myStmt;
-    private ResultSet rs;
+
 
 
     public static Connection connectionToDB () {
